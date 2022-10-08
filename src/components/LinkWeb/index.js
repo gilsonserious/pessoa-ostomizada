@@ -20,7 +20,7 @@ export default function LinkWeb( {link, title, closeModal}){
 const styles = StyleSheet.create({
     button:{
         padding: 10,
-        backgroundColor: '#a36efc',
+        backgroundColor: '#09aad0',
         marginTop: 60,
         flexDirection: 'row',
         alignItems: 'center'

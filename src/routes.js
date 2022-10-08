@@ -12,7 +12,7 @@ function Routes() {
     return (
         <Stack.Navigator>
             <Stack.Screen
-                name="Home"
+                name="Cartilha para a pessoa estomizada"
                 component={Home}
                 options={{
                     headerShown: false
@@ -26,7 +26,7 @@ function Routes() {
                     title: "Detalhes",
                     headerTintColor: '#fff',
                     headerStyle: {
-                        backgroundColor: "#a36efc"
+                        backgroundColor: "#09aad0"
                     }
                 }}
             />
@@ -38,7 +38,7 @@ function Routes() {
                     title: "Categoria",
                     headerTintColor: '#fff',
                     headerStyle: {
-                        backgroundColor: "#a36efc"
+                        backgroundColor: "#09aad0"
                     }
                 }}
             />
@@ -49,7 +49,7 @@ function Routes() {
                     title: "Procurando algo?",
                     headerTintColor: '#fff',
                     headerStyle: {
-                        backgroundColor: "#a36efc"
+                        backgroundColor: "#09aad0"
                     }
                 }}
             />

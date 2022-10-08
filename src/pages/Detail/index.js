@@ -45,7 +45,7 @@ export default function Detail() {
     ${post?.attributes?.description}
     
     
-    Vi lá no appp devpost!`
+    Vi lá na Cartilha do Paciente Ostomizado!`
 
             })
 
@@ -142,6 +142,7 @@ const styles = StyleSheet.create({
     },
     description: {
         lineHeight: 20,
+        textAlign: 'justify'
     },
     subTitle: {
         fontWeight: 'bold',
