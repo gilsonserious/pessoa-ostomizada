@@ -45,7 +45,7 @@ const styles = StyleSheet.create({
         width: WIDTH - 60,
         height: 100,
         justifyContent: 'flex-end',
-        backgroundColor: '#a36efc'
+        backgroundColor: '#09aad0'
     },
     title:{
         fontSize: 17,
